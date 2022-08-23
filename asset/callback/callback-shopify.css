@@ -1,0 +1,39 @@
+#callback-button {
+	position: fixed;
+	bottom: 45px;
+	right: 50px;
+}
+#callback-button.left { left: 40px; }
+#callback-button.center { text-align: center; }
+
+#callback-button a {
+	background-color: #f89a14;
+	color: #FFFFFF;
+	padding: 0 30px;
+	border-radius: 20px !important;
+}
+
+#callback-widget {
+	position: fixed;
+	bottom: 45px;
+	right: 10px;
+	max-width: 325px;
+	min-width: 325px;
+	width: 325px;
+	height: 400px;
+	background-color: #FFFFFF;
+	color: #000000;
+	display: none;
+	border-radius: 5px;
+}
+#callback-widget form {
+	padding: 10px;
+}
+#callback-widget textarea,label,input{
+	width: 100%;
+}
+#send_request {
+	max-width: 120px;
+}
+#callback-widget.left { left: 40px; }
+#callback-widget.center { margin: auto; }

@@ -1,1 +1,2 @@
-# Shopify-Callback-App
+# Shopify-Callback
+Shopify CallBack App
