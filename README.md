@@ -6,6 +6,8 @@ Author: CLEANCODED
 
 URI: https://cleancoded.com
 
+This gem is used for importing Shopify Callback App.
+
 ## Requirements
 
 > **Rails compatibility** 
